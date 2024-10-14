@@ -1,0 +1,3 @@
+﻿  restoranMenu.cpp
+C:\Users\Murat\Desktop\restoranMenu\restoranMenu\restoranMenu.cpp(212,10): warning C4553: '==': ifade sonucu kullanılmıyor; '=' kullanmak mı istediniz?
+  restoranMenu.vcxproj -> C:\Users\Murat\Desktop\restoranMenu\x64\Debug\restoranMenu.exe
